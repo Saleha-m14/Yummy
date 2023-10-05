@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "yummy-restaurant-app-c144ceae2db5.herokuapp.com", "localhost"]
+    "yummy-restaurant-app-c144ceae2db5.herokuapp.com", "8000-saleha-m14-yummyresturan-nnp4zd8in4.us2.codeanyapp.com"]
 
 
 # Application definition
