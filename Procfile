@@ -1,1 +1,1 @@
-web: gunicoron yummy.wsgi
+web: gunicorn yummy.wsgi
